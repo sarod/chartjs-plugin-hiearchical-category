@@ -14,7 +14,7 @@ See https://github.com/chartjs/Chart.js/issues/4946
 TODO
 
 ## Configure the axis
-```
+```javascript
 xAxes: [{
     type: 'hierarchical-category',
 	labels: [
