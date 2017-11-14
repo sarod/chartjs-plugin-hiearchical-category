@@ -1,20 +1,19 @@
-h1. Status
+# Status
 
 Sorry code is not working yet.
 
-h1. Hiearchical category axis plugin for ChartJs 2
+# Hiearchical category axis plugin for ChartJs 2
 
 The goal is to add support for Hierarchical category axis to chartjs (a.k.a grouped categories or multi-level categories).
 
 See https://github.com/chartjs/Chart.js/issues/4946
 
-h1. Documentation
+# Documentation
 
-
-Import the plugin:
+## Installing the plugin
 TODO
 
-Configuring the axis:
+## Configure the axis
 ```
 xAxes: [{
     type: 'hierarchical-category',
